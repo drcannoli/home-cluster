@@ -36,5 +36,3 @@ spec:
     persistence:
       config:
         enabled: false
-        existingClaim: homer-config
-        mountPath: /www/assets
